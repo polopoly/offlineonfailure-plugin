@@ -22,16 +22,19 @@
 
   <scm>
     <connection>scm:git:git://github.com/polopoly/offlineonfailure-plugin.git</connection>
-    <developerConnection>scm:git:git@github.com:jenkinsci/offlineonfailure-plugin.git</developerConnection>
+    <developerConnection>scm:git:git@github.com:polopoly/offlineonfailure-plugin.git</developerConnection>
+    <url>https://github.com/polopoly/offlineonfailure-plugin</url>
   </scm>
   
   <developers>
     <developer>
-      <name>Andreas Nillson</name>
+      <name>Andreas Nilsson</name>
+      <email>andreas.nilsson@atex.com</email>
     </developer>
     <developer>
       <id>bitter</id>
       <name>Martin Sternevald</name>
+      <email>sternevald@imap.cc</email>
     </developer>
   </developers>
 
