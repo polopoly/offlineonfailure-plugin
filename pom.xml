@@ -21,9 +21,9 @@
   </description>
 
   <scm>
-    <connection>scm:git:git://github.com/polopoly/offlineonfailure-plugin.git</connection>
-    <developerConnection>scm:git:git@github.com:polopoly/offlineonfailure-plugin.git</developerConnection>
-    <url>https://github.com/polopoly/offlineonfailure-plugin</url>
+    <connection>scm:git:git://github.com/jenkinsci/offlineonfailure-plugin.git</connection>
+    <developerConnection>scm:git:git@github.com:jenkinsci/offlineonfailure-plugin.git</developerConnection>
+    <url>https://github.com/jenkinsci/offlineonfailure-plugin</url>
   </scm>
   
   <developers>
