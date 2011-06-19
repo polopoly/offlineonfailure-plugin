@@ -14,7 +14,7 @@
   <packaging>hpi</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>OfflineOnFailure</name>
-  <url></url>
+  <url>https://wiki.jenkins-ci.org/display/JENKINS/Offline+Node+On+Failure+Plugin</url>
   <description>
     OfflineOnFailure is a plugin that will (when configured for it) take a node
     offline on build failures.
