@@ -10,7 +10,7 @@
 
   <artifactId>offlineonfailure-plugin</artifactId>
   <packaging>hpi</packaging>
-  <version>1.0</version>
+  <version>1.1-SNAPSHOT</version>
   <name>OfflineOnFailure</name>
   <url>https://wiki.jenkins-ci.org/display/JENKINS/Offline+Node+On+Failure+Plugin</url>
   <description>
